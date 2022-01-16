@@ -788,8 +788,8 @@ http://jjkdomain123.one:80/Charlie/Charlie/234008
 http://jjkdomain123.one:80/Charlie/Charlie/234007
 #EXTINF:-1 tvg-id="CA: MLB NETWORK" tvg-name="CA MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Canada | Sports",CA MLB Network
 http://jjkdomain123.one:80/Charlie/Charlie/234006
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Canada | Sports",CA NBA TV
-http://jjkdomain123.one:80/Charlie/Charlie/234005
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA NBC GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" group-title="Canada | Sports",CA NBC GOLF
 http://jjkdomain123.one:80/Charlie/Charlie/234004
 #EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA NFL Network" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="Canada | Sports",CA NFL Network

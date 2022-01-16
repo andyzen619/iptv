@@ -1896,3 +1896,7 @@ http://qqtv.nl:8080/Mike1234/Mike1234/57407
 http://qqtv.nl:8080/Mike1234/Mike1234/57409
 #EXTINF:-1 tvg-id="" tvg-name="JP: TV JAPAN " tvg-logo="" group-title="CHINESE -//- KOREAN",JP: TV JAPAN 
 http://qqtv.nl:8080/Mike1234/Mike1234/397796
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com

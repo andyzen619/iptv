@@ -2,3 +2,73 @@
 http://jjkdomain123.one:80/Charlie/Charlie/1734299
 #EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="CA (ZH) FAIRCHILD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ftv2001-open.jpg/220px-Ftv2001-open.jpg" group-title="Canada | Internationals",CA (ZH) FAIRCHILD 2
 http://jjkdomain123.one:80/Charlie/Charlie/1734301
+
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVB NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB NEWS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/320683
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVB NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB NEWS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/320683
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVB 1" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_1.png" group-title="CHINESE -//- KOREAN",CH: TVB 1
+http://qqtv.nl:8080/Mike1234/Mike1234/320682
+#EXTINF:-1 tvg-id="TVBJ2.hk" tvg-name="CH: TVB J1" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB J1
+http://qqtv.nl:8080/Mike1234/Mike1234/59222
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="CH: TVB JADE " tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB JADE 
+http://qqtv.nl:8080/Mike1234/Mike1234/319320
+#EXTINF:-1 tvg-id="TVBPearl.hk" tvg-name="CH: TVB PEARL" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_pearl.png" group-title="CHINESE -//- KOREAN",CH: TVB PEARL
+http://qqtv.nl:8080/Mike1234/Mike1234/320679
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="CH: TVB DRAMA" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_japanese_drama.png" group-title="CHINESE -//- KOREAN",CH: TVB DRAMA
+http://qqtv.nl:8080/Mike1234/Mike1234/320678
+#EXTINF:-1 tvg-id="TVBNews.hk" tvg-name="CH: TVB E-NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB E-NEWS
+http://qqtv.nl:8080/Mike1234/Mike1234/149030
+#EXTINF:-1 tvg-id="TVBXinghe.hk" tvg-name="CH: TVB XING HE " tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_jade_my.png" group-title="CHINESE -//- KOREAN",CH: TVB XING HE 
+http://qqtv.nl:8080/Mike1234/Mike1234/319319
+#EXTINF:-1 tvg-id="BabyTV.in" tvg-name="CH: BABY TV MANDARIN" tvg-logo="http://glmtv.pw/logo/prestige/China/baby_channel_cn.png" group-title="CHINESE -//- KOREAN",CH: BABY TV MANDARIN
+http://qqtv.nl:8080/Mike1234/Mike1234/320681
+#EXTINF:-1 tvg-id="TVBClassicMovies.hk" tvg-name="CH: TVB CLASSIC MOVIES" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/tvb_hk_classic.png" group-title="CHINESE -//- KOREAN",CH: TVB CLASSIC MOVIES
+http://qqtv.nl:8080/Mike1234/Mike1234/319321
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Canada | Sports",CA Sportsnet 360
+http://jjkdomain123.one:80/Charlie/Charlie/233960
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png" group-title="Canada | Sports",CA Sportsnet East
+http://jjkdomain123.one:80/Charlie/Charlie/233959
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA Sportsnet News" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png" group-title="Canada | Sports",CA Sportsnet News
+http://jjkdomain123.one:80/Charlie/Charlie/233958
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One" tvg-logo="https://static.epg.best/ca/SportsnetOne.ca.png" group-title="Canada | Sports",CA Sportsnet One
+http://jjkdomain123.one:80/Charlie/Charlie/233957
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario" tvg-logo="https://static.epg.best/ca/SportsnetOntario.ca.png" group-title="Canada | Sports",CA Sportsnet Ontario
+http://jjkdomain123.one:80/Charlie/Charlie/233956
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific" tvg-logo="https://static.epg.best/ca/SportsnetPacific.ca.png" group-title="Canada | Sports",CA Sportsnet Pacific
+http://jjkdomain123.one:80/Charlie/Charlie/233955
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West" tvg-logo="https://static.epg.best/ca/SportsnetWest.ca.png" group-title="Canada | Sports",CA Sportsnet West
+http://jjkdomain123.one:80/Charlie/Charlie/233954
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World" tvg-logo="https://static.epg.best/ca/SportsnetWorld.ca.png" group-title="Canada | Sports",CA Sportsnet World
+http://jjkdomain123.one:80/Charlie/Charlie/233953
+#EXTINF:-1 tvg-id="sportsnetworldplus1.ca" tvg-name="CA Sportsnet World Extra 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="Canada | Sports",CA Sportsnet World Extra 1
+http://jjkdomain123.one:80/Charlie/Charlie/233952
+#EXTINF:-1 tvg-id="sportsnetworldplus2.ca" tvg-name="CA Sportsnet World Extra 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="Canada | Sports",CA Sportsnet World Extra 2
+http://jjkdomain123.one:80/Charlie/Charlie/233951
+#EXTINF:-1 tvg-id="sportsnetworldplus3.ca" tvg-name="CA Sportsnet World Extra 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="Canada | Sports",CA Sportsnet World Extra 3
+http://jjkdomain123.one:80/Charlie/Charlie/233950
+#EXTINF:-1 tvg-id="sportsnetworldplus4.ca" tvg-name="CA Sportsnet World Extra 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="Canada | Sports",CA Sportsnet World Extra 4
+http://jjkdomain123.one:80/Charlie/Charlie/233949
+#EXTINF:-1 tvg-id="CA: TSN 1" tvg-name="CA TSN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="Canada | Sports",CA TSN 1
+http://jjkdomain123.one:80/Charlie/Charlie/233948
+#EXTINF:-1 tvg-id="CA: TSN 2" tvg-name="CA TSN 2" tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="Canada | Sports",CA TSN 2
+http://jjkdomain123.one:80/Charlie/Charlie/233947
+#EXTINF:-1 tvg-id="CA: TSN 3" tvg-name="CA TSN 3" tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="Canada | Sports",CA TSN 3
+http://jjkdomain123.one:80/Charlie/Charlie/233946
+#EXTINF:-1 tvg-id="CA: TSN 4" tvg-name="CA TSN 4" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Canada | Sports",CA TSN 4
+http://jjkdomain123.one:80/Charlie/Charlie/233945
+#EXTINF:-1 tvg-id="CA: TSN 5" tvg-name="CA TSN 5" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="Canada | Sports",CA TSN 5
+http://jjkdomain123.one:80/Charlie/Charlie/233944
+
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24
+http://jjkdomain123.one:80/Charlie/Charlie/234369
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24 HD" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24 HD
+http://jjkdomain123.one:80/Charlie/Charlie/234368
+#EXTINF:-1 tvg-id="CA: BNN BLOOMBERG" tvg-name="CA Business Bloomberg HD" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/37/63/boomerang-man-icon-logo-symbol-element-vector-24923763.jpg" group-title="Canada | Entertainment",CA Business Bloomberg HD
+http://jjkdomain123.one:80/Charlie/Charlie/233883

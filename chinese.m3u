@@ -2,6 +2,22 @@
 http://jjkdomain123.one:80/Charlie/Charlie/1734299
 #EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="CA (ZH) FAIRCHILD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ftv2001-open.jpg/220px-Ftv2001-open.jpg" group-title="Canada | Internationals",CA (ZH) FAIRCHILD 2
 http://jjkdomain123.one:80/Charlie/Charlie/1734301
+#EXTINF:-1,|CN| TVB CHINESE
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10671
+#EXTINF:-1,|CN| PHOENIX HONG KONG CHANNEL
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10670
+#EXTINF:-1,|CN| TVB2
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10675
+#EXTINF:-1,|CN| TVB HD
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10677
+#EXTINF:-1,|CN| TVB1
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10676
+#EXTINF:-1,|CN| TVB PEARL
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10673
+#EXTINF:-1,|CN| TVBE
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10674
+#EXTINF:-1,|CN| TVB DRAMA
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10672
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts?checkedby:iptvcat.com

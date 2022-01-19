@@ -59,8 +59,8 @@ http://jjkdomain123.one:80/Charlie/Charlie/233944
 http://jjkdomain123.one:80/Charlie/Charlie/234369
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24 HD" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24 HD
 http://jjkdomain123.one:80/Charlie/Charlie/234368
-#EXTINF:-1 tvg-id="CA: BNN BLOOMBERG" tvg-name="CA Business Bloomberg HD" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/37/63/boomerang-man-icon-logo-symbol-element-vector-24923763.jpg" group-title="Canada | Entertainment",CA Business Bloomberg HD
-http://jjkdomain123.one:80/Charlie/Charlie/233883
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada | News",BNN HD
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71530.ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com

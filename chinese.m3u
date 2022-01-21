@@ -19,9 +19,6 @@ http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10674
 #EXTINF:-1,|CN| TVB DRAMA
 http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10672
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Canada | Sports",CA Sportsnet 360
 http://jjkdomain123.one:80/Charlie/Charlie/233960
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png" group-title="Canada | Sports",CA Sportsnet East
@@ -54,6 +51,25 @@ http://jjkdomain123.one:80/Charlie/Charlie/233946
 http://jjkdomain123.one:80/Charlie/Charlie/233945
 #EXTINF:-1 tvg-id="CA: TSN 5" tvg-name="CA TSN 5" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="Canada | Sports",CA TSN 5
 http://jjkdomain123.one:80/Charlie/Charlie/233944
+#EXTINF:-1,USA: NBA HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31216
+#EXTINF:-1,USA: NBA HD (B)
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/58062
+
+#EXTINF:-1,USA: Investigation Discovery FHD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31124
+#EXTINF:-1,USA: National Geographic
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31223
+#EXTINF:-1,USA: TNT HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31225
+#EXTINF:-1,USA: Comedy Central
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31203
+#EXTINF:-1,USA: TLC HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31239
+#EXTINF:-1,USA: History
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31183
+#EXTINF:-1,USA: History FHD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31126
 
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24
 http://jjkdomain123.one:80/Charlie/Charlie/234369

@@ -2,11 +2,22 @@
 http://jjkdomain123.one:80/Charlie/Charlie/1734299
 #EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="CA (ZH) FAIRCHILD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ftv2001-open.jpg/220px-Ftv2001-open.jpg" group-title="Canada | Internationals",CA (ZH) FAIRCHILD 2
 http://jjkdomain123.one:80/Charlie/Charlie/1734301
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
+#EXTINF:-1,|CN| TVB CHINESE
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10671
+#EXTINF:-1,|CN| PHOENIX HONG KONG CHANNEL
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10670
+#EXTINF:-1,|CN| TVB2
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10675
+#EXTINF:-1,|CN| TVB HD
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10677
+#EXTINF:-1,|CN| TVB1
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10676
+#EXTINF:-1,|CN| TVB PEARL
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10673
+#EXTINF:-1,|CN| TVBE
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10674
+#EXTINF:-1,|CN| TVB DRAMA
+http://ip771.tk:80/7sBwdGvyqZMkKCX/XyC2b1KDrZ/10672
 
 #EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Canada | Sports",CA Sportsnet 360
 http://jjkdomain123.one:80/Charlie/Charlie/233960
@@ -20,8 +31,6 @@ http://jjkdomain123.one:80/Charlie/Charlie/233957
 http://jjkdomain123.one:80/Charlie/Charlie/233956
 #EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific" tvg-logo="https://static.epg.best/ca/SportsnetPacific.ca.png" group-title="Canada | Sports",CA Sportsnet Pacific
 http://jjkdomain123.one:80/Charlie/Charlie/233955
-#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West" tvg-logo="https://static.epg.best/ca/SportsnetWest.ca.png" group-title="Canada | Sports",CA Sportsnet West
-http://jjkdomain123.one:80/Charlie/Charlie/233954
 #EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World" tvg-logo="https://static.epg.best/ca/SportsnetWorld.ca.png" group-title="Canada | Sports",CA Sportsnet World
 http://jjkdomain123.one:80/Charlie/Charlie/233953
 #EXTINF:-1 tvg-id="sportsnetworldplus1.ca" tvg-name="CA Sportsnet World Extra 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png" group-title="Canada | Sports",CA Sportsnet World Extra 1
@@ -42,10 +51,52 @@ http://jjkdomain123.one:80/Charlie/Charlie/233946
 http://jjkdomain123.one:80/Charlie/Charlie/233945
 #EXTINF:-1 tvg-id="CA: TSN 5" tvg-name="CA TSN 5" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="Canada | Sports",CA TSN 5
 http://jjkdomain123.one:80/Charlie/Charlie/233944
+#EXTINF:-1,USA: NBA HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31216
+#EXTINF:-1,USA: NBA HD (B)
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/58062
+
+#EXTINF:-1,USA: Investigation Discovery FHD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31124
+#EXTINF:-1,USA: National Geographic
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31223
+#EXTINF:-1,USA: TNT HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31225
+#EXTINF:-1,USA: Comedy Central
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31203
+#EXTINF:-1,USA: TLC HD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31239
+#EXTINF:-1,USA: History
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31183
+#EXTINF:-1,USA: History FHD
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/31126
+#EXTINF:-1,USA: Tru TV
+http://012345x.com:999/XM26TWZ90F/JExnLudAJU/110099
 
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24
 http://jjkdomain123.one:80/Charlie/Charlie/234369
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA CP24 HD" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="Canada | News",CA CP24 HD
 http://jjkdomain123.one:80/Charlie/Charlie/234368
-#EXTINF:-1 tvg-id="CA: BNN BLOOMBERG" tvg-name="CA Business Bloomberg HD" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/37/63/boomerang-man-icon-logo-symbol-element-vector-24923763.jpg" group-title="Canada | Entertainment",CA Business Bloomberg HD
-http://jjkdomain123.one:80/Charlie/Charlie/233883
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada | News",BNN HD
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71530.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="Undefined",Da Nang TV2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Undefined",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://goo.gl/tDSGow" group-title="Undefined",PTP - Phú Yên
+http://113.161.4.48:8080/phuyen/tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Undefined",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" group-title="Undefined",THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" group-title="Undefined",Tien Giang
+http://thtg.vn:8001/thtg.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/vitv.png" group-title="Undefined",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/507ml0h.png" group-title="Undefined",VSAM TV (US)
+rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream?checkedby:iptvcat.com

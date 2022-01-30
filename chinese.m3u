@@ -4,6 +4,9 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/3304
 #EXTINF:-1,CA:HISTORY
 http://smartestv.vip:2095/ABHVYOP/2387998104/4816
 
+#EXTINF:-1,USA:NBA_TV
+http://smartestv.vip:2095/ABHVYOP/2387998104/2120
+
 #EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD

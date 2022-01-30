@@ -11,8 +11,9 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/2120
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Chinese",Fairchild
-http://191.101.44.238/dl/4gtv.php?id=fairchildtv
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Chinese",TVB1
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+
 
 #EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com

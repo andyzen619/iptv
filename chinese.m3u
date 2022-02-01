@@ -1,7 +1,5 @@
-#EXTINF:-1,CA:CP_24
-http://smartestv.vip:2095/ABHVYOP/2387998104/3304
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN BLOOMBERG
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3278?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/cp24.png" group-title="Undefined",CP24 (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CP24H_AtopItci_2015_01_12_HD/hls_hd.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,CA:HISTORY
 http://smartestv.vip:2095/ABHVYOP/2387998104/4816

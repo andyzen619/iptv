@@ -30,6 +30,10 @@ http://59.125.101.187:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",CN3
 rtmp://59.124.75.138/sat/tv421
 
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA FAIRCHILD
+http://gtv23.xyz:80/50005000/50005000/1102573.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FAIRCHILD 2
+http://gtv23.xyz:80/50005000/50005000/1102636.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV,Vietnam : ANTV HD

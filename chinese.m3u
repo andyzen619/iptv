@@ -1,17 +1,21 @@
-#EXTINF:0 tvg-country="CA" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/cp24.png" group-title="Undefined",CP24 (720p)
+#EXTINF:-1,USA:NBA_TV
+http://smartestv.vip:2095/ABHVYOP/2387998104/2120
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/cp24.png" group-title="NEWS",CP24 (720p)
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CP24H_AtopItci_2015_01_12_HD/hls_hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN HD Ca
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49046?checkedby:iptvcat.com
+
 
 #EXTINF:-1,CA:HISTORY
 http://smartestv.vip:2095/ABHVYOP/2387998104/4816
 
-#EXTINF:-1,USA:NBA_TV
-http://smartestv.vip:2095/ABHVYOP/2387998104/2120
 
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB1
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB2
 http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB_NEWS
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB6
 http://ye23.win/iptv/tvb.php?id=6
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB3
 http://ye23.win/iptv/tvb.php?id=5
@@ -19,7 +23,6 @@ http://ye23.win/iptv/tvb.php?id=5
 http://ye23.win/iptv/tvb.php?id=4
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB5
 http://ye23.win/iptv/tvb.php?id=3
-
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",CN1
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",CN2

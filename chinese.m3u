@@ -2,7 +2,8 @@
 
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="NEWS",CA CP24 (P)
 http://fortv.cc:8080/rose/rose123/57357?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTVX
 http://mains.services:2086/kixy2030/u8zC9nvB69/13229?checkedby:iptvcat.com
 
 

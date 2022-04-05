@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTVX
-http://mains.services:2086/kixy2030/u8zC9nvB69/13229?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV2
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/329822?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+http://stariptv.org:8080/wael2021/123456/148479?checkedby:iptvcat.com
 
 
 

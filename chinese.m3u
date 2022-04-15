@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS_QQ
-http://stariptv.org:8080/wael2021/123456/148479?checkedby:iptvcat.com
-
-
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV HD
+http://new-pro.tv:8080/Fernando/123321/69368?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Chinese",TVB1
 http://iptv.tvfix.org/hls/tvbjd.m3u8
